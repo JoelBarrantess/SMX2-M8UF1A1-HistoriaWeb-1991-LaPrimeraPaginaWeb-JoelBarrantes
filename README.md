@@ -1,7 +1,7 @@
 # La primera página WEB
 *Hecho por Joel Barrantes*
 
-![HTTP]([https://media.giphy.com/media/zn4qMNLewG8JSmKZ4y/giphy.gif](https://media.giphy.com/media/3o6ZsZEOXlYKfrFVW8/giphy.gif))
+![HTTP](https://media.giphy.com/media/3o6ZsZEOXlYKfrFVW8/giphy.gif)
 <br />
 <br />
 # INDICE.
