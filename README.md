@@ -6,13 +6,13 @@
 <br />
 # INDICE.
 -----------------------
-### 1. CERN - La primara páfina WEB
+### 1. CERN - La primara página WEB
 *****************************
 <br />
 <br />
 <br />
 
-## CERN - La primara páfina WEB
+## CERN - La primara página WEB
 
 -Tim Berners-Lee introduce HTTP como una forma para que los clientes (navegadores web) se comuniquen con los servidores. 
 
