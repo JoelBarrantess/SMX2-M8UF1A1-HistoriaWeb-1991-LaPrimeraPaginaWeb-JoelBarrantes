@@ -14,7 +14,7 @@
 
 ## CERN - La primara página WEB
 
--Tim Berners-Lee introduce HTTP como una forma para que los clientes (navegadores web) se comuniquen con los servidores. 
+-Cuando empezó a funcionar, el primer sitio web de la historia estaba alojado bajo la dirección 'http://info.cern.ch/hypertext/WWW/TheProject.html' y en él se decidió incluir información del proyecto. Solo mostraba textos, hipertextos y varios menús. 
 
 <img src="/img/Tim_Berners_Lee.jpg" alt="Tim" width="200"/>
 
