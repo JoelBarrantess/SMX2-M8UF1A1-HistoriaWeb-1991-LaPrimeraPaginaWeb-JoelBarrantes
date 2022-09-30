@@ -16,5 +16,5 @@
 
 -Cuando empezó a funcionar, el primer sitio web de la historia estaba alojado bajo la dirección 'http://info.cern.ch/hypertext/WWW/TheProject.html' y en él se decidió incluir información del proyecto. Solo mostraba textos, hipertextos y varios menús. 
 
-<img src="/img/página.jpg" width="200"/>
+<img src="/img/pagina.jpg" width="200"/>
 
